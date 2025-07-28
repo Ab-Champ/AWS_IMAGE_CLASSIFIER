@@ -90,3 +90,8 @@ argparse
 
 torchvision.datasets (ImageFolder)
 
+## Inferences
+
+![img1](static/inf_01.png)
+![im2](static/inf_02.png)
+
