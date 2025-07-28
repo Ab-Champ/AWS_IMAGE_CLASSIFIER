@@ -1,4 +1,5 @@
 # AI Programming with Python Project
+![thumbnail](assests/Flowers.png)
 
 ## Description:
 This project is a command-line-based deep learning image classifier built using PyTorch. It classifies flower images into different categories using transfer learning. Users can choose between pre-trained architectures (VGG13 or DenseNet121), fine-tune a custom classifier on top, and train using GPU if available. Once trained, the model is saved as a checkpoint for future inference.
@@ -92,6 +93,6 @@ torchvision.datasets (ImageFolder)
 
 ## Inferences
 
-![img1](static/inf_01.png)
-![im2](static/inf_02.png)
+![img1](assets/img_01.png)
+![im2](assets/img_02.png)
 
